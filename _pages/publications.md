@@ -21,6 +21,23 @@ author_profile: true
 <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> International Conference on Learning Representations (**ICLR 2025**) </span>
 
 
+
+4. <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> Revisiting Source-Free Domain Adaptation: Insights into Representativeness, Generalization, and Diversity. </span> <br>
+<span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> Ronghang Zhu, Mengxuan Hu, Weiming Zhuang, Lingjuan Lyu, Xiang Yu, and Sheng Li.</span> <br>
+<span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR 2025**) </span>
+
+
+
+4. <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> Benign Samples Matter! Fine-tuning On Outlier Benign Samples Severely Breaks Safety. </span> <br>
+<span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> Zihan Guan*, Mengxuan Hu*, Ronghang Zhu, Sheng Li*, Anil Vullikanti* </span> <br>
+<span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> International Conference on Machine Learning (**ICML 2025 spotlight top 2.6%**) </span>
+
+
+4. <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;">BalancEdit: Dynamically Balancing the Generality-Locality Trade-off in Multi-modal Model Editing. </span> <br>
+<span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> Dongliang Guo, Mengxuan Hu, Zihan Guan, Thomas Hartvigsen, Sheng Li</span> <br>
+<span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> International Conference on Machine Learning (**ICML 2025**) </span>
+
+
 ### <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace;">2024 </span>
 1. <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> BBCaL: Black-box Backdoor Detection under the Causality Lens [\[PDF\]](https://openreview.net/forum?id=HZi9PfLwMn) [\[Code\]](https://github.com/GuanZihan/BBCaL) </span> <br>
 <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> Mengxuan Hu\*, **Zihan Guan**\*, Junfeng Guo, Zhongliang Zhou, Jielu Zhang, Sheng Li </span> <br>
