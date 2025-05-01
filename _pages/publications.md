@@ -9,7 +9,7 @@ author_profile: true
 
 ### <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace;">2025 </span>
 1. <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> UFID: A Unified Framework for Input-level Backdoor Detection on Diffusion Models [\[PDF\]](https://arxiv.org/abs/2404.01101) [\[Code\]](https://github.com/GuanZihan/official_UFID) </span> <br>
-<span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> **Zihan Guan**\*, Mengxuan Hu\*, Sheng Li, Anil Vullikanti </span> <br>
+<span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> Zihan Guan\*, **Mengxuan Hu**\*, Sheng Li, Anil Vullikanti </span> <br>
 <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> AAAI Conference on Artificial Intelligence (**AAAI 2025**) </span>
 
 2. <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> Evaluating accuracy and reproducibility of large language model performance on critical care assessments in pharmacy education  </span> <br>
@@ -17,19 +17,19 @@ author_profile: true
 <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> Frontiers in Artificial Intelligence, section Medicine and Public Health </span>
 
 3. <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> Mind Control through Causal Inference: Predicting Clean Images from Poisoned Data  </span> <br>
-<span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> Mengxuan Hu*, Zihan Guan*, Yi Zeng, Junfeng Guo, Zhongliang Zhou, Jielu Zhang, Ruoxi Jia, Anil Kumar Vullikanti, Sheng Li </span> <br>
+<span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> **Mengxuan Hu**\*, **Zihan Guan**\*, Yi Zeng, Junfeng Guo, Zhongliang Zhou, Jielu Zhang, Ruoxi Jia, Anil Kumar Vullikanti, Sheng Li </span> <br>
 <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> International Conference on Learning Representations (**ICLR 2025**) </span>
 
 
 
 4. <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> Revisiting Source-Free Domain Adaptation: Insights into Representativeness, Generalization, and Diversity. </span> <br>
-<span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> Ronghang Zhu, Mengxuan Hu, Weiming Zhuang, Lingjuan Lyu, Xiang Yu, and Sheng Li.</span> <br>
+<span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> Ronghang Zhu, **Mengxuan Hu**, Weiming Zhuang, Lingjuan Lyu, Xiang Yu, and Sheng Li.</span> <br>
 <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR 2025**) </span>
 
 
 
 4. <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> Benign Samples Matter! Fine-tuning On Outlier Benign Samples Severely Breaks Safety. </span> <br>
-<span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> Zihan Guan*, Mengxuan Hu*, Ronghang Zhu, Sheng Li*, Anil Vullikanti* </span> <br>
+<span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> Zihan Guan\*, **Mengxuan Hu**\*, Ronghang Zhu, Sheng Li*, Anil Vullikanti* </span> <br>
 <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> International Conference on Machine Learning (**ICML 2025 spotlight top 2.6%**) </span>
 
 
