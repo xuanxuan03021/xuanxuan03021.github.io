@@ -10,12 +10,12 @@ redirect_from:
 ## 🧑‍💻 <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace;">Biography</span>
 <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> I am a forth year Ph.D. student at [University of Virginia](https://www.virginia.edu/), supervised by Prof. [Sheng Li](https://sheng-li.org/). Prior to that, I obtained my master degree at [Imperial College London](https://www.imperial.ac.uk/), where I worked with Dr. [Sam Greenbury](https://www.turing.ac.uk/people/research-engineering/sam-greenbury) and Prof. [Elsa Angelini](https://profiles.imperial.ac.uk/e.angelini), and I obtained my bachelor degree at [Dalian University of Technology](http://en.dlut.edu.cn/) </span>
 
-## 🎓 <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; color: #ff6b6b;">Graduation & Job Search</span>
+## 🎓 <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; ">Graduation & Job Search</span>
 <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px; color: #ff6b6b;"> <strong>I will be graduating in Summer 2026</strong> and am <strong>actively looking for job opportunities</strong> in:</span>
 
-- <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px; color: #ff6b6b;"><strong>Research Scientist</strong> positions in AI/ML, especially related to GenAI & LLM safety alignment, LLM post-training, and multimodality</span>
+- <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"><strong>Research Scientist</strong> positions in AI/ML, especially related to GenAI & LLM safety alignment, LLM post-training, and multimodality</span>
 
-- <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px; color: #ff6b6b;"><strong>Applied Scientist</strong> roles in industry</span>
+- <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"><strong>Applied Scientist</strong> roles in industry</span>
 
 <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px; color: #ff6b6b;"> <em>Any recommendations or connections would be greatly appreciated! 🙏</em></span>
 
