@@ -10,7 +10,7 @@ redirect_from:
 ## 🧑‍💻 <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace;">Biography</span>
 <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> I am a forth year Ph.D. student at [University of Virginia](https://www.virginia.edu/), supervised by Prof. [Sheng Li](https://sheng-li.org/). Prior to that, I obtained my master degree at [Imperial College London](https://www.imperial.ac.uk/), where I worked with Dr. [Sam Greenbury](https://www.turing.ac.uk/people/research-engineering/sam-greenbury) and Prof. [Elsa Angelini](https://profiles.imperial.ac.uk/e.angelini), and I obtained my bachelor degree at [Dalian University of Technology](http://en.dlut.edu.cn/) </span>
 
-<div style="background: linear-gradient(135deg, #ff6b6b 0%, #ee5a52 100%); color: white; padding: 20px; border-radius: 12px; margin: 20px 0; box-shadow: 0 8px 32px rgba(255, 107, 107, 0.3); border-left: 5px solid #d63031;">
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 20px; border-radius: 12px; margin: 20px 0; box-shadow: 0 8px 32px rgba(102, 126, 234, 0.3); border-left: 5px solid #667eea;">
   <div style="text-align: center;">
     <h3 style="margin: 0 0 15px 0; font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 18px; font-weight: bold;">
       🎓 <strong>GRADUATION & JOB SEARCH</strong>
@@ -70,41 +70,10 @@ redirect_from:
 
 ### 🐱 <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace;">Meet My Lovely Cat "Zhu Mi" (猪咪)</span>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 20px 0; padding: 20px; background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); border-radius: 15px; box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
-  <div style="position: relative; overflow: hidden; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2); transition: transform 0.3s ease, box-shadow 0.3s ease;">
-    <img src="/images/zhumi_1.jpg" alt="Zhu Mi - Portrait" style="width: 100%; height: 250px; object-fit: cover; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-    <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(transparent, rgba(0,0,0,0.7)); color: white; padding: 15px; font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 12px;">
-      <strong>Portrait Mode</strong>
-    </div>
-  </div>
-  
-  <div style="position: relative; overflow: hidden; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2); transition: transform 0.3s ease, box-shadow 0.3s ease;">
-    <img src="/images/zhumi_2.jpg" alt="Zhu Mi - Playful" style="width: 100%; height: 250px; object-fit: cover; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-    <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(transparent, rgba(0,0,0,0.7)); color: white; padding: 15px; font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 12px;">
-      <strong>Playful Moment</strong>
-    </div>
-  </div>
-  
-  <div style="position: relative; overflow: hidden; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2); transition: transform 0.3s ease, box-shadow 0.3s ease;">
-    <img src="/images/zhumi_3.jpg" alt="Zhu Mi - Relaxed" style="width: 100%; height: 250px; object-fit: cover; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-    <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(transparent, rgba(0,0,0,0.7)); color: white; padding: 15px; font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 12px;">
-      <strong>Relaxed State</strong>
-    </div>
-  </div>
-  
-  <div style="position: relative; overflow: hidden; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2); transition: transform 0.3s ease, box-shadow 0.3s ease;">
-    <img src="/images/zhumi_4.jpg" alt="Zhu Mi - Curious" style="width: 100%; height: 250px; object-fit: cover; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-    <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(transparent, rgba(0,0,0,0.7)); color: white; padding: 15px; font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 12px;">
-      <strong>Curious Look</strong>
-    </div>
-  </div>
-</div>
-
-<div style="text-align: center; margin: 20px 0; padding: 15px; background: rgba(0,0,0,0.05); border-radius: 10px; border-left: 4px solid #007acc;">
-  <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px; color: #333;">
-    <strong>🐾 Fun Fact:</strong> Zhu Mi is not just a pet, but also my coding companion and stress reliever during long research sessions!
-  </span>
-</div>
+<img src="/images/zhumi_1.jpg" alt="Cat Image 1" style="width:300px;">
+<img src="/images/zhumi_2.jpg" alt="Cat Image 2" style="width:300px;">
+<img src="/images/zhumi_3.jpg" alt="Cat Image 3" style="width:300px;">
+<img src="/images/zhumi_4.jpg" alt="Cat Image 4" style="width:300px;">
 
 
 
