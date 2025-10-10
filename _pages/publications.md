@@ -28,12 +28,14 @@ author_profile: true
 
 
 
-4. <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> Benign Samples Matter! Fine-tuning On Outlier Benign Samples Severely Breaks Safety [\[PDF\]](https://arxiv.org/pdf/2505.06843) [\[Code\]](https://github.com/GuanZihan/Benign-Samples-Matter) </span> <br>
+4. <div style="background: linear-gradient(135deg, #fff3cd 0%, #ffeaa7 100%); padding: 15px; border-radius: 8px; border-left: 4px solid #f39c12; margin: 10px 0;">
+<span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> Benign Samples Matter! Fine-tuning On Outlier Benign Samples Severely Breaks Safety [\[PDF\]](https://arxiv.org/pdf/2505.06843) [\[Code\]](https://github.com/GuanZihan/Benign-Samples-Matter) </span> <br>
 <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> **Zihan Guan**\*, **Mengxuan Hu**\*, Ronghang Zhu, Sheng Li*, Anil Vullikanti* </span> <br>
-<span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> International Conference on Machine Learning (**ICML 2025 spotlight top 2.6%**) </span>
+<span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> International Conference on Machine Learning (**ICML 2025 spotlight top 2.6%**) ⭐ </span>
+</div>
 
 
-5. <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;">BalancEdit: Dynamically Balancing the Generality-Locality Trade-off in Multi-modal Model Editing. </span> <br>
+5. <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;">BalancEdit: Dynamically Balancing the Generality-Locality Trade-off in Multi-modal Model Editing [\[PDF\]](https://arxiv.org/abs/2505.01343) </span> <br>
 <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> Dongliang Guo, **Mengxuan Hu**, Zihan Guan, Thomas Hartvigsen, Sheng Li</span> <br>
 <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> International Conference on Machine Learning (**ICML 2025**) </span>
 

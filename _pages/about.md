@@ -10,19 +10,14 @@ redirect_from:
 ## 🧑‍💻 <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace;">Biography</span>
 <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> I am a forth year Ph.D. student at [University of Virginia](https://www.virginia.edu/), supervised by Prof. [Sheng Li](https://sheng-li.org/). Prior to that, I obtained my master degree at [Imperial College London](https://www.imperial.ac.uk/), where I worked with Dr. [Sam Greenbury](https://www.turing.ac.uk/people/research-engineering/sam-greenbury) and Prof. [Elsa Angelini](https://profiles.imperial.ac.uk/e.angelini), and I obtained my bachelor degree at [Dalian University of Technology](http://en.dlut.edu.cn/) </span>
 
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 20px; border-radius: 12px; margin: 20px 0; box-shadow: 0 8px 32px rgba(102, 126, 234, 0.3); border-left: 5px solid #667eea;">
-  <div style="text-align: center;">
-    <h3 style="margin: 0 0 15px 0; font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 18px; font-weight: bold;">
-      🎓 <strong>GRADUATION & JOB SEARCH</strong>
-    </h3>
-    <p style="margin: 0; font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 16px; line-height: 1.6;">
-      <strong>I will be graduating in Summer 2026</strong> and am <strong>actively looking for job opportunities</strong> in:<br>
-      • <strong>Research Scientist</strong> positions in AI/ML, especially related to GenAI & LLM safety alignment, LLM post-training, and multimodality<br>
-      • <strong>Applied Scientist</strong> roles in industry<br><br>
-      <em>Any recommendations or connections would be greatly appreciated! 🙏</em>
-    </p>
-  </div>
-</div>
+## 🎓 <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace;">Graduation & Job Search</span>
+<span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> <strong style="color: #667eea;">I will be graduating in Summer 2026</strong> and am <strong style="color: #667eea;">actively looking for job opportunities</strong> in:</span>
+
+- <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"><strong style="color: #667eea;">Research Scientist</strong> positions in AI/ML, especially related to GenAI & LLM safety alignment, LLM post-training, and multimodality</span>
+
+- <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"><strong style="color: #667eea;">Applied Scientist</strong> roles in industry</span>
+
+<span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> <em>Any recommendations or connections would be greatly appreciated! 🙏</em></span>
 
 
 ## 📚 <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace;">Research Interests</span>
