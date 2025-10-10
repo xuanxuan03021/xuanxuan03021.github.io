@@ -30,7 +30,7 @@ author_profile: true
 
 4. <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> Benign Samples Matter! Fine-tuning On Outlier Benign Samples Severely Breaks Safety [\[PDF\]](https://arxiv.org/pdf/2505.06843) [\[Code\]](https://github.com/GuanZihan/Benign-Samples-Matter) </span> <br>
 <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> **Zihan Guan**\*, **Mengxuan Hu**\*, Ronghang Zhu, Sheng Li*, Anil Vullikanti* </span> <br>
-<span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px; background: linear-gradient(135deg, #fff3cd 0%, #ffeaa7 100%); padding: 8px 12px; border-radius: 6px; border-left: 4px solid #f39c12; display: inline-block; margin: 5px 0;"> International Conference on Machine Learning (**ICML 2025 spotlight top 2.6%**) ⭐ </span>
+<span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px; background: linear-gradient(135deg, #ffe6e6 0%, #ffcccc 100%); padding: 8px 12px; border-radius: 6px; border-left: 4px solid #ff6b6b; display: inline-block; margin: 5px 0;"> International Conference on Machine Learning (**ICML 2025 spotlight top 2.6%**) ⭐ </span>
 
 
 5. <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;">BalancEdit: Dynamically Balancing the Generality-Locality Trade-off in Multi-modal Model Editing [\[PDF\]](https://arxiv.org/abs/2505.01343) </span> <br>
