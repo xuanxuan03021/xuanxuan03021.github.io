@@ -28,14 +28,26 @@ author_profile: true
 
 
 
-4. <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> Benign Samples Matter! Fine-tuning On Outlier Benign Samples Severely Breaks Safety. </span> <br>
+4. <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> Benign Samples Matter! Fine-tuning On Outlier Benign Samples Severely Breaks Safety [\[PDF\]](https://arxiv.org/pdf/2505.06843) [\[Code\]](https://github.com/GuanZihan/Benign-Samples-Matter) </span> <br>
 <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> **Zihan Guan**\*, **Mengxuan Hu**\*, Ronghang Zhu, Sheng Li*, Anil Vullikanti* </span> <br>
 <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> International Conference on Machine Learning (**ICML 2025 spotlight top 2.6%**) </span>
 
 
-4. <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;">BalancEdit: Dynamically Balancing the Generality-Locality Trade-off in Multi-modal Model Editing. </span> <br>
+5. <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;">BalancEdit: Dynamically Balancing the Generality-Locality Trade-off in Multi-modal Model Editing. </span> <br>
 <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> Dongliang Guo, **Mengxuan Hu**, Zihan Guan, Thomas Hartvigsen, Sheng Li</span> <br>
 <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> International Conference on Machine Learning (**ICML 2025**) </span>
+
+6. <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;">Distort Time to Improve Video Temporal Reasoning. </span> <br>
+<span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> Daiqing Qi, Dongliang Guo, Hanzhang Yuan, Handong Zhao, **Mengxuan Hu**, Lehan Yang, and Sheng Li</span> <br>
+<span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> The Thirty-ninth Annual Conference on Neural Information Processing Systems (**NeurIPS 2025**) </span>
+
+7. <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;">No free lunch: Retrieval-augmented generation undermines fairness in LLMs, even for vigilant users [\[PDF\]](https://arxiv.org/pdf/2410.07589) </span> <br>
+<span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> **Mengxuan Hu**\*, **Hongyi Wu**\*, Zihan Guan, Ronghang Zhu, Dongliang Guo, Daiqing Qi, and Sheng Li</span> <br>
+<span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> Findings of The Conference on Empirical Methods in Natural Language Processing (**EMNLP Findings 2025**) </span>
+
+8. <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;">Backdoor in Seconds: Unlocking Vulnerabilities in Large Pre-trained Models via Model Editing [\[PDF\]](https://arxiv.org/abs/2410.18267) </span> <br>
+<span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> Dongliang Guo, **Mengxuan Hu**, Zihan Guan, Junfeng Guo, Thomas Hartvigsen, and Sheng Li</span> <br>
+<span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> The 34th ACM International Conference on Information and Knowledge Management (**ACM CIKM 2025**) </span>
 
 
 ### <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace;">2024 </span>
