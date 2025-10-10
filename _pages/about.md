@@ -30,7 +30,7 @@ redirect_from:
 
 - <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;">One paper for backdoor vulnerabilities in large pre-trained models has been accepted by ACM CIKM 2025!</span>
 
-- <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;">One paper for safety of LLM in terms of benign finetuning has been accepted by ICML 2025! (**spotlight top 2.6% of all submissions**)</span>
+- <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;">One paper for safety of LLM in terms of benign finetuning has been accepted by ICML 2025! (**spotlight 🏆 top 2.6% of all submissions**)</span>
 
 - <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;">One paper for MLLM Editing  has been accepted by ICML 2025!</span>
 
