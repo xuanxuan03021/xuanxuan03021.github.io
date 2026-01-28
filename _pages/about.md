@@ -24,6 +24,10 @@ redirect_from:
 <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;">I am broadly interested in Trustworthy AI, especially on Large Language Models, Multimodal Foundation Models, and Generative AI, especially from a safety and fairness lens.</span>
 
 ## 📢 <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace;">Recent News</span>
+- <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;">One paper for LLM Safety & Alignment has been accepted by ICLR 2026!</span>
+
+- <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;">One paper for Digital Pathology & Efficient WSI Inference has been accepted by ISBI 2026!</span>
+
 - <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;">One paper for video temporal reasoning has been accepted by NeurIPS 2025!</span>
 
 - <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;">One paper for fairness in retrieval-augmented generation has been accepted by EMNLP Findings 2025!</span>

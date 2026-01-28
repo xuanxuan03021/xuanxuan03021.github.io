@@ -7,6 +7,16 @@ author_profile: true
 ## <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; ;"> Conference & Journal Publications </span>
 <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> \* indicates equal contributions </span>
 
+### <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace;">2026 </span>
+
+1. <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> Alignment-Weighted DPO: A principled reasoning approach to improve alignment [\[PDF\]](https://openreview.net/pdf?id=OuMNJoKJBQ)   </span> <br>
+<span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> , **Mengxuan Hu**, Vivek Datla, Anoop Kumar, Zihan Guan, Sheng Li, Alfy Samuel, Daben Liu </span> <br>
+<span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> AInternational Conference on Learning Representations (**ICLR 2026**) </span>
+
+1. <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> Enhanced Diagnostic Performance via Large-Resolution Inference Optimization for Pathology Foundation Models   </span> <br>
+<span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;">  **Mengxuan Hu**\*,  Zihan Guan\*, John Kang, Sheng Li, Zhongliang Zhou</span> <br>
+<span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> The IEEE International Symposium on Biomedical Imaging (**ISBI 2026**) </span>
+
 ### <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace;">2025 </span>
 1. <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> UFID: A Unified Framework for Input-level Backdoor Detection on Diffusion Models [\[PDF\]](https://arxiv.org/abs/2404.01101) [\[Code\]](https://github.com/GuanZihan/official_UFID) </span> <br>
 <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> Zihan Guan\*, **Mengxuan Hu**\*, Sheng Li, Anil Vullikanti </span> <br>
