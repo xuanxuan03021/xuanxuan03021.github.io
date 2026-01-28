@@ -10,7 +10,7 @@ author_profile: true
 ### <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace;">2026 </span>
 
 1. <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> Alignment-Weighted DPO: A principled reasoning approach to improve alignment [\[PDF\]](https://openreview.net/pdf?id=OuMNJoKJBQ)   </span> <br>
-<span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> , **Mengxuan Hu**, Vivek Datla, Anoop Kumar, Zihan Guan, Sheng Li, Alfy Samuel, Daben Liu </span> <br>
+<span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;">  **Mengxuan Hu**, Vivek Datla, Anoop Kumar, Zihan Guan, Sheng Li, Alfy Samuel, Daben Liu </span> <br>
 <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> AInternational Conference on Learning Representations (**ICLR 2026**) </span>
 
 1. <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> Enhanced Diagnostic Performance via Large-Resolution Inference Optimization for Pathology Foundation Models   </span> <br>
